@@ -1,5 +1,5 @@
 # Informatic1_Project
-# Building Planning Project
+## Building Planning Project
 **Description**
 
 The Building Planning Tool is a Windows Forms application designed for planning multi-purpose buildings. It allows users to create, manage, and modify buildings, floors, and rooms while providing vital information such as design loads, volumes, and furnishing details. This tool is intended to support project planners, structural engineers, and interior designers in the design and analysis phases of building construction projects.
