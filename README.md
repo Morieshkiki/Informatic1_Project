@@ -1,10 +1,10 @@
 # Informatic1_Project
 # Building Planning Project
-Description
+**Description**
 
 The Building Planning Tool is a Windows Forms application designed for planning multi-purpose buildings. It allows users to create, manage, and modify buildings, floors, and rooms while providing vital information such as design loads, volumes, and furnishing details. This tool is intended to support project planners, structural engineers, and interior designers in the design and analysis phases of building construction projects.
 
-Features
+**Features**
 
 Create and Manage Building Elements: Add, modify, and delete buildings, floors, and rooms through an interactive graphical interface.
 
@@ -18,7 +18,7 @@ Serialization Support: Save and load building data with serialization to ensure 
 
 Cost Summary and Inventory: Generate a cost summary of concrete slab costs and provide an inventory of furnishing items for the entire building.
 
-Setup Instructions
+**Setup Instructions**
 
 Clone the Repository:
 
@@ -42,7 +42,7 @@ Build the solution (Ctrl + Shift + B).
 
 Run the application (F5).
 
-Usage
+**Usage**
 
 Creating Buildings, Floors, and Rooms: Use the graphical user interface to create and modify building elements as per the project requirements.
 
@@ -52,9 +52,9 @@ Furnishing Management: Add information on furnishing items for each room to aid 
 
 Saving and Loading Data: Save your work to file and load it back when needed using the built-in serialization feature.
 
-Contributors
+**Contributors**
 
-Team Members:
+**Team Members:**
 
 Meisam
 
